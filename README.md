@@ -61,7 +61,7 @@
 
 <h2 align="center">🤝 Brotherhood 🤝</h2>
 
-<p align="center">💙 If you like my projects, Give them a ⭐ </p>
+<p align="center">💙 If you like my projects, Please give them a ⭐ </p>
 </p>
 <h1 align='center'>🌸🌸 Stay Comfy! 🌸🌸</h1>
 
