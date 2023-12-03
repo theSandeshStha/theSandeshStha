@@ -5,7 +5,7 @@
 </div>
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="gif2.gif" />
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" height="270px" width="450px" alt="GIF" src="gif2.gif" /></a>
 <p align="center">
   <h3> I'm a Tech Enthusiast from Nepal🇳🇵.</h3>
 </p>
