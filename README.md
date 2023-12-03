@@ -11,13 +11,18 @@
 </p>
 
 - A slut for music 🎶🎶 <i>Saxophone is the sexiest instrument ever 🎷🎷 </i>
+
 - 🇯🇵 A <b>CULTURED</b> Anime fan 😼
 
 - 🤖 ML Enthusiast
 
+- I came 3rd in a nationwide Art Competition when I was 14 so you could say I'm an above average artist 🎨
+
+- Soon to be Chess Grandmaster ♔ ♛
+
 - I do a bit of everything ☕️
 
-- Hala Madrid! 🇪🇸
+- ¡Hala Madrid!...y nada más 🇪🇸
   
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
 <div align="center" >
