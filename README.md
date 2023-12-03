@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-
+</a>
 <br />
 
 <p align="center">
@@ -51,7 +51,7 @@
    </p>
    
 <br />
-</a>
+
 <h2 align="center">🤝 Brotherhood 🤝</h2>
 
 <p align="center">💙 If you like my projects, Give them ⭐ </p>
