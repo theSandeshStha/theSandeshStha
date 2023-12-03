@@ -16,6 +16,8 @@
 
 - 🤖 ML Enthusiast
 
+- Short form horror story writer
+
 - I came 3rd in a nationwide Art Competition when I was 14 so you could say I'm an above average artist 🎨
 
 - Soon to be Chess Grandmaster ♔ ♛
