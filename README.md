@@ -21,11 +21,11 @@
 
 <div align="center" >
 
-![theSandeshStha's Stats](https://github-readme-stats.vercel.app/api?username=theSandeshStha&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![theSandeshStha's Stats](https://github-readme-stats.vercel.app/api?username=theSandeshStha&theme=radical&show_icons=true&hide_border=true&count_private=true_width=500px)
 
 ![theSandeshStha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=theSandeshStha&theme=radical&hide_border=true)
 
-![theSandeshStha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theSandeshStha&theme=radical&show_icons=true&hide_border=true)
+![theSandeshStha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theSandeshStha&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 </div>
 
