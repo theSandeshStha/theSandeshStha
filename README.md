@@ -54,14 +54,14 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   <img src="https://i.imgur.com/Q3cUg29.gif" />
    </p>
    
 <br />
 
 <h2 align="center">🤝 Brotherhood 🤝</h2>
 
-<p align="center">💙 If you like my projects, Give them ⭐ </p>
+<p align="center">💙 If you like my projects, Give them a ⭐ </p>
 </p>
 <h1 align='center'>🌸🌸 Stay Comfy! 🌸🌸</h1>
 
