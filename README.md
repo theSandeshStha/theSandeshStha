@@ -52,7 +52,7 @@
    
 <br />
 
-<h2 align="center">🤝 Brotherhood</h2>
+<h2 align="center">🤝 Brotherhood 🤝</h2>
 
 <p align="center">💙 If you like my projects, Give them ⭐ </p>
 </p>
