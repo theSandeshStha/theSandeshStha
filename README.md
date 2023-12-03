@@ -54,7 +54,7 @@
 <br />
 
 <p align="center">
-   <img src="https://i.imgur.com/Q3cUg29.gif" />
+   <img src="gif3.gif" />
    </p>
    
 <br />
