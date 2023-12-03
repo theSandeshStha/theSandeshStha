@@ -25,7 +25,7 @@
 
 ![theSandeshStha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=theSandeshStha&theme=radical&hide_border=true_width=500px)
 
-![theSandeshStha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theSandeshStha&theme=radical&show_icons=true&hide_border=true&layout=compact_width=500px)
+![theSandeshStha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theSandeshStha&theme=radical&show_icons=true&hide_border=true_width=500px&layout=compact)
 
 </div>
 
