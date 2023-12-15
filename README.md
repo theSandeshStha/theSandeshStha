@@ -10,7 +10,7 @@
   <h3> I'm a Tech Enthusiast from Nepal🇳🇵.</h3>
 </p>
 
-- A slut for music 🎶🎶 <i>Saxophone is the sexiest instrument ever 🎷🎷 </i>
+- A slut for music 🎶🎶 <i>btw Saxophone is the sexiest instrument ever 🎷🎷 </i>
 
 - 🇯🇵 A <b>CULTURED</b> Anime fan 😼
 
