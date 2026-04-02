@@ -7,7 +7,7 @@
 <br />
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="right" height="270px" width="450px" alt="GIF" src="gif2.gif" /></a>
 <p align="center">
-  <h3> I'm a Tech Enthusiast from Nepal🇳🇵.</h3>
+  <h3> I'm a Data Engineer from Nepal🇳🇵.</h3>
 </p>
 
 - A slut for music 🎶🎶 <i> Saxophone lover 🎷🎷 </i>
@@ -15,6 +15,8 @@
 - 🇯🇵 A <b><i>CULTURED</i></b> Anime fan 😼
 
 - 🤖 ML Enthusiast
+
+- I sing 🎤, write and play music.....sometimes.🎶
 
 - Short form horror story writer
 
